@@ -1,7 +1,7 @@
 
 
 
-# Programação Estruturada 
+# Programação Estruturada e Estrutura de Dados
 
 **Códigos feitos de atividades no Curso de Computação do IFPE 2024.2.**
 
